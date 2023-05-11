@@ -1,0 +1,109 @@
+.container1{
+    display: flex;
+    /* Valore possíveis pricipais (row|row-reverse|column|column-reverse) */
+    flex-direction: row;
+    background-color: rgb(248, 213, 171);
+}
+.container2{
+    display: flex;
+    /* Valore possíveis pricipais (row|row-reverse|column|column-reverse) */
+    flex-direction: row-reverse;
+    background-color: rgb(249, 207, 157);
+}
+.container3{
+    display: flex;
+    /* Valore possíveis pricipais (row|row-reverse|column|column-reverse) */
+    flex-direction: column;
+    background-color: lightgreen;
+}
+.container4{
+    display: flex;
+    /* Valore possíveis pricipais (row|row-reverse|column|column-reverse) */
+    flex-direction: column-reverse;
+    background-color: rgb(178, 150, 115);
+}
+.container5{
+    display: flex;
+    /* Valore possíveis pricipais (center|flex-start|flex-end|space-between|space-around) */
+    justify-content: center;
+    background-color: rgb(167, 154, 140);
+}
+.container6{
+    display: flex;
+    /* Valore possíveis pricipais (center|flex-start|flex-end|space-between|space-around) */
+    justify-content: flex-start;
+    background-color: rgb(167, 154, 140);
+}
+.container7{
+    display: flex;
+    /* Valore possíveis pricipais (center|flex-start|flex-end|space-between|space-around) */
+    justify-content: flex-end;
+    background-color: rgb(167, 154, 140);
+}
+.container8{
+    display: flex;
+    /* Valore possíveis pricipais (center|flex-start|flex-end|space-between|space-around) */
+    justify-content: space-between;
+    background-color: rgb(167, 154, 140);
+}
+.container9{
+    display: flex;
+    /* Valore possíveis pricipais (center|flex-start|flex-end|space-between|space-around) */
+    justify-content: space-around;
+    background-color: rgb(167, 154, 140);
+}
+.container10{
+    display: flex;
+    /* Valore possíveis pricipais (stretch|center|flex-start|flex-end|space-between|space-around) */
+    align-content: stretch;
+    flex-wrap: wrap;
+    height: 120px;
+    background-color: rgb(212, 207, 202);
+}
+.container11{
+    display: flex;
+    /* Valore possíveis pricipais (stretch|center|flex-start|flex-end|space-between|space-around) */
+    align-content: center;
+    flex-wrap: wrap;
+    height: 120px;
+    background-color: rgb(212, 207, 202);
+}
+.container12{
+    display: flex;
+    /* Valore possíveis pricipais (stretch|center|flex-start|flex-end|space-between|space-around) */
+    align-content: flex-start;
+    flex-wrap: wrap;
+    height: 120px;
+    background-color: rgb(212, 207, 202);
+}
+.container13{
+    display: flex;
+    /* Valore possíveis pricipais (stretch|center|flex-start|flex-end|space-between|space-around) */
+    align-content: flex-end;
+    flex-wrap: wrap;
+    height: 120px;
+    background-color: rgb(212, 207, 202);
+}
+.container14{
+    display: flex;
+    /* Valore possíveis pricipais (stretch|center|flex-start|flex-end|space-between|space-around) */
+    align-content: space-between;
+    flex-wrap: wrap;
+    height: 120px;
+    background-color: rgb(212, 207, 202);
+}
+.container15{
+    display: flex;
+    /* Valore possíveis pricipais (stretch|center|flex-start|flex-end|space-between|space-around) */
+    align-content: space-around;
+    flex-wrap: wrap;
+    height: 120px;
+    background-color: rgb(212, 207, 202);
+}
+.container16{
+    display: flex;
+    /* Valore possíveis pricipais (stretch|center|flex-start|flex-end|baseline) */
+    align-items: stretch;
+    height: 120px;
+    background-color: rgb(212, 207, 202);
+}
